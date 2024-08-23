@@ -1,7 +1,7 @@
 # **Hi! 👋 My name is Chau Tran Vy Linh**
 ## **IT Student (VN - JP)**
 
-### 🛠️ Introduction
+### 🛠️ Introduction:
 
 I'm a third-year Information Technology student at University of Information Technology - VNU-HCM (UIT). My goal is to become a proficient Front-End Developer with a strong focus on UI/UX design.
 
