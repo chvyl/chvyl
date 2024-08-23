@@ -1,8 +1,11 @@
-# 👋 Hi, I'm Vy Linh (chvyl)! 
+# **Hi! 👋 My name is Chau Tran Vy Linh**
+## **IT Student (VN - JP)**
 
-## 🛠️ Introduction
+### 🛠️ Introduction
 
 I'm a second-year Information Technology student at University of Information Technology - VNU-HCM (UIT). My goal is to become a proficient Front-End Developer with a strong focus on UI/UX design.
+
+🌍  I'm based in Ho Chi Minh City
 
 ### 🚀 Current Goals:
 - Independently planning tasks according to client requirements.
@@ -15,7 +18,8 @@ I'm a second-year Information Technology student at University of Information Te
 - Design Tools: Figma, Adobe XD.
 
 ### 🧳 Personal Projects:
-- "Remood": A team project where I contributed as a UI/UX designer. Remood is an application aimed at helping users track and manage their emotions using modern design principles.
+- "Remood": A team project where I contributed as a UI/UX designer. Remood is an application aimed at helping users track and manage their emotions using modern design principles.  
+_(Watch the project introduction on YouTube: https://www.youtube.com/watch?v=EzFu0nuA1Ac)_
 
 ### 📫 Contact Me:
 - Email: vylinhchautran@gmail.com
