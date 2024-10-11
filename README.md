@@ -5,8 +5,6 @@
 
 I'm a third-year Information Technology student at University of Information Technology - VNU-HCM (UIT). My goal is to become a proficient Front-End Developer with a strong focus on UI/UX design.
 
-🌍  I'm based in Ho Chi Minh City.
-
 ### 🚀 Current Goals:
 - Researching and applying new technologies like AI/ML to personal projects.
 - Enhancing my programming skills and contributing to meaningful projects.
